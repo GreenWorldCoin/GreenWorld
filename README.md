@@ -10,11 +10,11 @@ listing 22.5% of supply on pancakeswap
 25% for future listings and staking
 
 
-Communities:
-You can join the communities on different social media. To see what's going on, meet people & discuss, see the latest progress on the farms, give or ask for help:
-Website: https://wearegreenworld.com/
-Twitter: https://twitter.com/GreenWorldBSC
-Reddit: https://www.reddit.com/r/GreenWorldBSC/
-Instagram: https://www.instagram.com/greenworld.insta/
-Facebook: https://www.facebook.com/Green-World-100496719204305
-Linkedin: https://www.linkedin.com/company/green-world-token/
+Communities: <br>
+You can join the communities on different social media. To see what's going on, meet people & discuss, see the latest progress on the farms, give or ask for help: 
+Website: https://wearegreenworld.com/ <br>
+Twitter: https://twitter.com/GreenWorldBSC <br>
+Reddit: https://www.reddit.com/r/GreenWorldBSC/ <br>
+Instagram: https://www.instagram.com/greenworld.insta/ <br>
+Facebook: https://www.facebook.com/Green-World-100496719204305 <br>
+Linkedin: https://www.linkedin.com/company/green-world-token/ 
