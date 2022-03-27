@@ -17,4 +17,10 @@ Twitter: https://twitter.com/GreenWorldBSC <br>
 Reddit: https://www.reddit.com/r/GreenWorldBSC/ <br>
 Instagram: https://www.instagram.com/greenworld.insta/ <br>
 Facebook: https://www.facebook.com/Green-World-100496719204305 <br>
-Linkedin: https://www.linkedin.com/company/green-world-token/ 
+Linkedin: https://www.linkedin.com/company/green-world-token/ <br>
+
+Purchase on Pancakeswap: <br>
+https://pancakeswap.finance/swap?outputCurrency=0xCD80E92F1bF4Ffd24166c6FAC5daEbceCF65dc86
+
+View our Nomics page:<br>
+https://nomics.com/assets/grnwrld-green-world
