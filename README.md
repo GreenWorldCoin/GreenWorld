@@ -1,2 +1,20 @@
 # GreenWorld
-Green World was written on Solidity. It is a fork from JoinCoin.
+
+Tokenomics:
+Supply of 1,000,000,000
+listing 22.5% of supply on pancakeswap
+25% for presale
+7.5% for team
+10% for marketing
+10% environmental causes wallet
+25% for future listings and staking
+
+
+Communities:
+You can join the communities on different social media. To see what's going on, meet people & discuss, see the latest progress on the farms, give or ask for help:
+Website: https://wearegreenworld.com/
+Twitter: https://twitter.com/GreenWorldBSC
+Reddit: https://www.reddit.com/r/GreenWorldBSC/
+Instagram: https://www.instagram.com/greenworld.insta/
+Facebook: https://www.facebook.com/Green-World-100496719204305
+Linkedin: https://www.linkedin.com/company/green-world-token/
