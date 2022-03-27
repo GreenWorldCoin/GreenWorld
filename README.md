@@ -11,7 +11,7 @@ listing 22.5% of supply on pancakeswap
 
 
 Communities: <br>
-You can join the communities on different social media. To see what's going on, meet people & discuss, see the latest progress on the farms, give or ask for help: 
+You can join the communities on different social media. To see what's going on, meet people & discuss, see the latest progress on the farms, give or ask for help: <br>
 Website: https://wearegreenworld.com/ <br>
 Twitter: https://twitter.com/GreenWorldBSC <br>
 Reddit: https://www.reddit.com/r/GreenWorldBSC/ <br>
