@@ -1,12 +1,12 @@
 # GreenWorld
 
 Tokenomics:
-Supply of 1,000,000,000
-listing 22.5% of supply on pancakeswap
-25% for presale
-7.5% for team
-10% for marketing
-10% environmental causes wallet
+Supply of 1,000,000,000 <br>
+listing 22.5% of supply on pancakeswap <br>
+25% for presale <br>
+7.5% for team <br>
+10% for marketing <br>
+10% environmental causes wallet <br>
 25% for future listings and staking
 
 
