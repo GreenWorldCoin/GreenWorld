@@ -1,6 +1,6 @@
 # GreenWorld
 
-Tokenomics:
+Tokenomics:<br>
 Supply of 1,000,000,000 <br>
 listing 22.5% of supply on pancakeswap <br>
 25% for presale <br>
